@@ -10,11 +10,5 @@ fun main (){
     myMap?.forEach{
         println("${it.key} ${it.value}")
     }
-    println("My first commit ")
-    println("My first commit ")
-    println("My first commit ")
-    println("My first commit ")
-    println("My first commit ")
-    println("My first commit ")
-    println("My first commit ")
+   
 }
